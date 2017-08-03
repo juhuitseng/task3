@@ -1,0 +1,13 @@
+========================================================================================
+Context     : DDS::DomainParticipantFactory::create_participant
+Date        : Fri Jul 14 19:14:32 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_pub <2835>
+Thread      : main thread 7f0a9be26780
+Internals   : DomainParticipantFactory.cpp/265/6.8.0/e6cc4b1/7825e89/-1
+----------------------------------------------------------------------------------------
+Report      : Failure to open the domain, domain id = 2147483647 and URI="<NULL>" The most common cause of this error is that OpenSpliceDDS is not running (when using shared memory mode). Please make sure to start OpenSplice before creating a DomainParticipant.
+Internals   : u_participantNew/u_participant.c/224/773/1500030872.140844977
+----------------------------------------------------------------------------------------
+Report      : os_sharedMemoryAttach failed for domainId (0) and domainName (The default Domain)
+Internals   : user::u_domain::u_domainOpen/u_domain.c/1401/773/1500030872.140916494
