@@ -18,6 +18,22 @@ __HelloWorldData_Msg__copyIn(
 
     to->userID = (c_long)from->userID;
 #ifdef OSPL_BOUNDS_CHECK
+    if(from->name){
+        to->name = c_stringNew_s(base, from->name);
+        if(to->name == NULL) {
+            result = V_COPYIN_RESULT_OUT_OF_MEMORY;
+        }
+    } else {
+        OS_REPORT (OS_ERROR, "copyIn", 0,"Member 'HelloWorldData::Msg.name' of type 'c_string' is NULL.");
+        result = V_COPYIN_RESULT_INVALID;
+    }
+#else
+    to->name = c_stringNew_s(base, from->name);
+    if(to->name == NULL) {
+        result = V_COPYIN_RESULT_OUT_OF_MEMORY;
+    }
+#endif
+#ifdef OSPL_BOUNDS_CHECK
     if(from->message){
         to->message = c_stringNew_s(base, from->message);
         if(to->message == NULL) {
@@ -44,6 +60,7 @@ __HelloWorldData_Msg__copyOut(
     const struct _HelloWorldData_Msg *from = (const struct _HelloWorldData_Msg *)_from;
     struct ::HelloWorldData::Msg *to = (struct ::HelloWorldData::Msg *)_to;
     to->userID = (::DDS::Long)from->userID;
+    to->name = DDS::string_dup(from->name ? from->name : "");
     to->message = DDS::string_dup(from->message ? from->message : "");
 }
 

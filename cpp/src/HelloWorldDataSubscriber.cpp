@@ -23,6 +23,7 @@
 #include <string>
 #include <sstream>
 #include <iostream>
+#include <ctime>
 #include "DDSEntityManager.h"
 #include "ccpp_HelloWorldData.h"
 #include "vortex_os.h"
@@ -80,12 +81,12 @@ int HelloWorldDataSubscriber(int argc, char *argv[])
     ReturnCode_t status =  - 1;
     int count = 0;
     //me added
-    string lastStr;
-    int id = 0;
+    string name, lastStr;
+    time_t now_time;
     while(lastStr!="quit")
     {
 
-        while (!closed && count < 15) // We dont want the example to run indefinitely
+        while (!closed && count < 100) // We dont want the example to run indefinitely
         {
             cout<<"reading..."<<endl;
             status = HelloWorldReader->read(msgList, infoSeq, LENGTH_UNLIMITED,
@@ -95,6 +96,7 @@ int HelloWorldDataSubscriber(int argc, char *argv[])
             {
                 cout << "=== [GET] message received :" << endl;
                 cout << "    [GET] userID  : " << msgList[j].userID << endl;
+                cout << "    [GET] username  : " << msgList[j].name << endl;
                 cout << "    [GET] Message : \"" << msgList[j].message << "\"" << endl;
                 closed = true;
 
@@ -108,23 +110,25 @@ int HelloWorldDataSubscriber(int argc, char *argv[])
         os_nanoSleep(delay_2ms);
         closed=false; count=0;
 
+        cout<<"Who are you?";
+        getline(cin, name);
         cout<<"What do you want to say: ";
         getline(cin, lastStr);
 
+        now_time = time(NULL) % 86400; //get the time(per per day) and use it as id(86400=60*60*24)
+
         Msg msgInstance; /* Example on Stack */
-        msgInstance.userID = id;
+        msgInstance.userID = now_time;
+        msgInstance.name = DDS::string_dup(&name[0]);
         msgInstance.message = DDS::string_dup(&lastStr[0]);
         cout << "=== [SEND] writing a message containing :" << endl;
         cout << "    [SEND] userID  : " << msgInstance.userID << endl;
+        cout << "    [SEND] username  : " << msgInstance.name << endl;
         cout << "    [SEND] Message : \"" << msgInstance.message << "\"" << endl;
 
         status = HelloWorldWriter->write(msgInstance, DDS::HANDLE_NIL);
         checkStatus(status, "MsgDataWriter::write");
         os_nanoSleep(delay_1s);
-
-
-        id++;
-
     }
 
 

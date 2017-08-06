@@ -11,3 +11,233 @@ Internals   : u_participantNew/u_participant.c/224/773/1500030872.140844977
 ----------------------------------------------------------------------------------------
 Report      : os_sharedMemoryAttach failed for domainId (0) and domainName (The default Domain)
 Internals   : user::u_domain::u_domainOpen/u_domain.c/1401/773/1500030872.140916494
+========================================================================================
+Context     : DDS::OpenSplice::TypeSupport::register_type
+Date        : Sat Aug 05 00:59:53 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : main thread 7f356b5e0780
+Internals   : TypeSupport.cpp/70/6.8.0/e6cc4b1/7825e89/-1
+----------------------------------------------------------------------------------------
+Report      : Bad parameter: Could not register type 'HelloWorldData::Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::wlReq_load_type_support_meta_holder/DomainParticipant.cpp/2171/3/1501865993.863134453
+----------------------------------------------------------------------------------------
+Report      : Deserialize failed
+Internals   : Type deserialize/sd_serializerXMLTypeinfo.c/2988/0/1501865993.863157999
+----------------------------------------------------------------------------------------
+Report      : c_metaBind failed for Struct <Msg> in scope <HelloWorldData>.
+Internals   : sd_deserXmlStructure/sd_serializerXMLTypeinfo.c/2408/0/1501865993.863174483
+----------------------------------------------------------------------------------------
+Report      : Redeclaration of 'HelloWorldData::Msg' doesn't match existing declaration
+Internals   : c_metaObject::c_metaBind/c_metabase.c/263/0/1501865993.863736490
+========================================================================================
+Context     : DDS::OpenSplice::TypeSupport::register_type
+Date        : Sat Aug 05 01:02:39 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : main thread 7f4b80147780
+Internals   : TypeSupport.cpp/70/6.8.0/e6cc4b1/7825e89/-1
+----------------------------------------------------------------------------------------
+Report      : Bad parameter: Could not register type 'HelloWorldData::Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::wlReq_load_type_support_meta_holder/DomainParticipant.cpp/2171/3/1501866159.276669800
+----------------------------------------------------------------------------------------
+Report      : Deserialize failed
+Internals   : Type deserialize/sd_serializerXMLTypeinfo.c/2988/0/1501866159.276739085
+----------------------------------------------------------------------------------------
+Report      : c_metaBind failed for Struct <Msg> in scope <HelloWorldData>.
+Internals   : sd_deserXmlStructure/sd_serializerXMLTypeinfo.c/2408/0/1501866159.276755524
+----------------------------------------------------------------------------------------
+Report      : Redeclaration of 'HelloWorldData::Msg' doesn't match existing declaration
+Internals   : c_metaObject::c_metaBind/c_metabase.c/263/0/1501866159.276769332
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 09:02:41 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : main thread 7f6dbc0b8780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1501981361.187552842
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1501981361.187607106
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1501981361.187623654
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 09:06:29 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : main thread 7fefef26a780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1501981589.839632955
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1501981589.839655854
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1501981589.839671507
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 09:08:16 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : main thread 7ff2d7f3e780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1501981696.728437648
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1501981696.728463059
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1501981696.728480300
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 20:12:34 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : main thread 7fd6dc66f780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502021554.384733265
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502021554.384756836
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502021554.384772980
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 20:20:07 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : main thread 7f68c94d4780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502022007.692900066
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502022007.692924805
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502022007.692941359
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:10:33 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : main thread 7f1d9a064780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'NEW_HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025033.523819147
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <NEW_HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025033.523833600
+----------------------------------------------------------------------------------------
+Report      : Create Topic <NEW_HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025033.523844217
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:13:02 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : main thread 7f3c353b5780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025182.805867050
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025182.805887873
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025182.805903467
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:13:57 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : main thread 7f2ac58be780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025237.656863064
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025237.656892086
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025237.656903742
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:15:42 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : main thread 7effe00e1780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025342.217163818
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025342.217813539
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025342.217848145
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:16:10 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : main thread 7fa542f89780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025370.417522417
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025370.417550138
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025370.417571447
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:17:06 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : main thread 7fba67b7e780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025426.715598209
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025426.715627043
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025426.715651326
+========================================================================================
+Context     : DDS::OpenSplice::DomainParticipant::create_topic
+Date        : Sun Aug 06 21:18:41 CST 2017
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : main thread 7f82f7d62780
+Internals   : DomainParticipant.cpp/808/6.8.0/e6cc4b1/7825e89/0
+----------------------------------------------------------------------------------------
+Report      : Error: Could not create Topic 'HelloWorldData_Msg'.
+Internals   : DDS::OpenSplice::DomainParticipant::nlReq_createTopic/DomainParticipant.cpp/2689/1/1502025521.329840172
+----------------------------------------------------------------------------------------
+Report      : Create kernel entity failed. For Topic: <HelloWorldData_Msg>
+Internals   : u_topicNew/u_topic.c/227/772/1502025521.329863423
+----------------------------------------------------------------------------------------
+Report      : Create Topic <HelloWorldData_Msg> failed: Unmatching QoS Policy: 'Durability'.
+Internals   : v_topicNew/v_topicImpl.c/370/779/1502025521.329926836

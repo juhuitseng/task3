@@ -19,10 +19,11 @@ HelloWorldData::MsgTypeSupportMetaHolder::MsgTypeSupportMetaHolder () :
 {
     copyIn = (DDS::OpenSplice::cxxCopyIn) __HelloWorldData_Msg__copyIn;
     copyOut = (DDS::OpenSplice::cxxCopyOut) __HelloWorldData_Msg__copyOut;
-    metaDescriptorArrLength = 2;
-    metaDescriptorLength = 193;
+    metaDescriptorArrLength = 3;
+    metaDescriptorLength = 233;
     const char *tmp[] = {"<MetaData version=\"1.0.0\"><Module name=\"HelloWorldData\"><Struct name=\"Msg\"><Member name=\"userID\">",
-"<Long/></Member><Member name=\"message\"><String/></Member></Struct></Module></MetaData>"};
+"<Long/></Member><Member name=\"name\"><String/></Member><Member name=\"message\"><String/></Member></Struct>",
+"</Module></MetaData>"};
     metaDescriptor = new const char*[metaDescriptorArrLength];
     memcpy(metaDescriptor, tmp, sizeof(tmp));
 }

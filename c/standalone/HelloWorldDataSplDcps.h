@@ -22,6 +22,7 @@ extern  v_copyin_result __HelloWorldData_Msg__copyIn(c_base base, const void *fr
 extern  void __HelloWorldData_Msg__copyOut(const void *_from, void *_to);
 struct _HelloWorldData_Msg {
     c_long userID;
+    c_string name;
     c_string message;
 };
 

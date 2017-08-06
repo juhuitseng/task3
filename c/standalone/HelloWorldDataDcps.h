@@ -16,6 +16,7 @@ typedef struct HelloWorldData_Msg HelloWorldData_Msg;
 
 struct HelloWorldData_Msg {
     DDS_long userID;
+    DDS_string name;
     DDS_string message;
 };
 

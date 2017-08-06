@@ -4,7 +4,7 @@
 //  
 //  File name: HelloWorldData.h
 //  Source: ../../idl/HelloWorldData.idl
-//  Generated: Sun May 21 08:09:53 2017
+//  Generated: Sat Aug  5 01:02:22 2017
 //  OpenSplice 6.8.0
 //  
 //******************************************************************
@@ -21,6 +21,7 @@ namespace HelloWorldData
    struct Msg
    {
          DDS::Long userID;
+         DDS::String_mgr name;
          DDS::String_mgr message;
    };
 

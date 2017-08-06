@@ -5054,3 +5054,2795 @@ Node        : hope-VirtualBox
 Process     : sacpp_helloworld_sub <25007>
 Thread      : OSPL Garbage Collector 7f643720c700
 Internals   : 6.8.0/e6cc4b1/7825e89/v_spliced/v_spliced.c/2382/769/1501781646.661395604/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : spliced 7f356b5fd700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501865992.744640939/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 106518954 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : spliced 7f356b5fd700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501865992.857660477/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : spliced 7f356b5fd700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501865992.861288286/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : durability 7f3568282700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501865992.945046482/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : SOAP service is reachable via port 33204
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : cmsoap 7f3568383700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501865992.950034364/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : cmsoap 7f3568383700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501865992.950546183/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:52 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : ddsi2 7f3568181700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501865992.969229738/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:53 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : ddsi2 7f3568181700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501865993.001503707/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 00:59:53 CST 2017
+Description : The durability service can be identified by ID: 106518954
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26215>
+Thread      : durability 7f3568282700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501865993.237262378/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:00:04 CST 2017
+Description : Missed heartbeat for node 106518954. (DCPSPublication is complete)
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <25007>
+Thread      : OSPL Garbage Collector 7f643720c700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_spliced/v_spliced.c/2382/769/1501866004.961256032/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : spliced 7f4b80164700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501866158.149372831/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1809927152 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : spliced 7f4b80164700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501866158.281460423/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : spliced 7f4b80164700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501866158.284708036/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : ddsi2 7f4b47fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501866158.348451075/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : SOAP service is reachable via port 33483
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : cmsoap 7f4b7ceea700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501866158.363159312/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : cmsoap 7f4b7ceea700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501866158.366324269/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : durability 7f4b7cab5700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501866158.370876712/-1
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : ddsi2 7f4b47fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501866158.399804933/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:38 CST 2017
+Description : The durability service can be identified by ID: 1809927152
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <26876>
+Thread      : durability 7f4b7cab5700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501866158.637235074/0
+========================================================================================
+Report      : INFO
+Date        : Sat Aug 05 01:02:49 CST 2017
+Description : Missed heartbeat for node 1809927152. (DCPSPublication is complete)
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <25007>
+Thread      : OSPL Garbage Collector 7f643720c700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_spliced/v_spliced.c/2382/769/1501866169.932036074/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : spliced 7fe169d3c700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501980947.774098040/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 18806920 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : spliced 7fe169d3c700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501980947.878739801/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : spliced 7fe169d3c700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501980947.882476053/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : durability 7fe16668d700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501980947.950260167/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : ddsi2 7fe165c01700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501980947.970953824/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : SOAP service is reachable via port 37242
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : cmsoap 7fe166ac2700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501980947.982970654/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:47 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : cmsoap 7fe166ac2700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501980947.983302246/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:48 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : ddsi2 7fe165c01700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501980948.007607908/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:48 CST 2017
+Description : The durability service can be identified by ID: 18806920
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : durability 7fe16668d700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501980948.647011322/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:55:58 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : conflictResolver 7fe165aef700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501980958.833050909/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:39 CST 2017
+Description : Missed heartbeat for node 1876209060. (DCPSPublication is complete)
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30741>
+Thread      : OSPL Garbage Collector 7fe167309700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_spliced/v_spliced.c/2382/769/1501980999.716261338/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : spliced 7f3ca5338700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981004.474995177/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1938651572 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : spliced 7f3ca5338700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981004.617622847/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : spliced 7f3ca5338700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981004.623217467/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : ddsi2 7f3ca11fd700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981004.718570246/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : durability 7f3ca1c89700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981004.737494587/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : ddsi2 7f3ca11fd700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981004.760273210/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : SOAP service is reachable via port 45671
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : cmsoap 7f3ca20be700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981004.790497126/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : cmsoap 7f3ca20be700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981004.803543144/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:44 CST 2017
+Description : The durability service can be identified by ID: 1938651572
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : durability 7f3ca1c89700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981004.960788594/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 08:56:52 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <30860>
+Thread      : conflictResolver 7f3ca0eaa700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981012.482310749/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : spliced 7fea81bb4700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981222.652181532/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 698681721 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : spliced 7fea81bb4700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981222.771733174/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : spliced 7fea81bb4700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981222.781048484/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : SOAP service is reachable via port 45609
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : cmsoap 7fea7e93a700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981222.903727042/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : cmsoap 7fea7e93a700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981222.903870258/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : ddsi2 7fea7da79700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981222.920715355/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : durability 7fea7e505700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981222.926542078/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : ddsi2 7fea7da79700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981222.996081923/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:23 CST 2017
+Description : The durability service can be identified by ID: 698681721
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : durability 7fea7e505700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981223.707996492/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:00:31 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : conflictResolver 7fea7d737700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981231.210988408/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : spliced 7f52f708d700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981282.452798488/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 64771579 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : spliced 7f52f708d700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981282.574404872/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : spliced 7f52f708d700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981282.580298618/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : ddsi2 7f52cef42700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981282.717133780/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : SOAP service is reachable via port 35866
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : cmsoap 7f52cfdeb700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981282.727870355/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : cmsoap 7f52cfdeb700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981282.728284201/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : durability 7f52cf9b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981282.732690686/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:22 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : ddsi2 7f52cef42700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981282.791320181/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:23 CST 2017
+Description : The durability service can be identified by ID: 64771579
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : durability 7f52cf9b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981283.047232189/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:30 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31164>
+Thread      : conflictResolver 7f52cec11700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981290.589180686/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:01:52 CST 2017
+Description : Missed heartbeat for node 64771579. (DCPSPublication is complete)
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31050>
+Thread      : OSPL Garbage Collector 7fea7f181700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_spliced/v_spliced.c/2382/769/1501981312.792511930/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : spliced 7fc05310a700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981328.178373845/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1708843973 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : spliced 7fc05310a700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981328.300313336/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : spliced 7fc05310a700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981328.303380916/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : SOAP service is reachable via port 39679
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : cmsoap 7fc023deb700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981328.379539766/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : cmsoap 7fc023deb700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981328.379951816/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : durability 7fc0239b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981328.385011701/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : ddsi2 7fc022f42700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981328.400561477/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:08 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : ddsi2 7fc022f42700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981328.435017463/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:09 CST 2017
+Description : The durability service can be identified by ID: 1708843973
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : durability 7fc0239b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981329.061710125/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:16 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31278>
+Thread      : conflictResolver 7fc05002d700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981336.653614360/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : spliced 7f6dbc0d5700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981360.076123819/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 506188012 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : spliced 7f6dbc0d5700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981360.181777907/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : spliced 7f6dbc0d5700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981360.185255226/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : SOAP service is reachable via port 43909
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : cmsoap 7f6db8e5b700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981360.281257946/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : cmsoap 7f6db8e5b700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981360.281674715/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : durability 7f6db8a26700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981360.288632603/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : ddsi2 7f6db8376700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981360.288671901/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : ddsi2 7f6db8376700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981360.334374695/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:02:41 CST 2017
+Description : The durability service can be identified by ID: 506188012
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31468>
+Thread      : durability 7f6db8a26700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981361.183493372/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : spliced 7fefef287700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981588.726141688/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1173942467 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : spliced 7fefef287700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981588.839285839/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : spliced 7fefef287700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981588.842595913/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : durability 7fefc7bca700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981588.967374072/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : ddsi2 7fefc713e700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981588.983541189/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : SOAP service is reachable via port 42810
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : cmsoap 7fefc7fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981588.991235654/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:28 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : cmsoap 7fefc7fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981588.991743539/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:29 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : ddsi2 7fefc713e700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981589.028215841/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:06:29 CST 2017
+Description : The durability service can be identified by ID: 1173942467
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31750>
+Thread      : durability 7fefc7bca700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981589.141040383/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : spliced 7f11dd1f8700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981625.740291601/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:05 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 883020191 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : spliced 7f11dd1f8700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981625.886166819/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : spliced 7f11dd1f8700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981625.902308585/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : ddsi2 7f11d90bd700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981626.005794910/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : durability 7f11d9b49700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981626.017339370/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : SOAP service is reachable via port 38464
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : cmsoap 7f11d9f7e700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981626.021549687/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : cmsoap 7f11d9f7e700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981626.022346180/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : ddsi2 7f11d90bd700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981626.070469499/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:06 CST 2017
+Description : The durability service can be identified by ID: 883020191
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : durability 7f11d9b49700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981626.213659614/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:07:13 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <31931>
+Thread      : conflictResolver 7f11d8d7b700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981633.689155238/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : spliced 7ff2d7f5b700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1501981695.579781080/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1278056519 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : spliced 7ff2d7f5b700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1501981695.713817212/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : spliced 7ff2d7f5b700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981695.724226044/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : ddsi2 7ff2d41fc700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1501981695.828051808/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : durability 7ff2d48ac700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1501981695.835453695/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : SOAP service is reachable via port 33414
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : cmsoap 7ff2d4ce1700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1501981695.851640785/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : cmsoap 7ff2d4ce1700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981695.852320457/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : ddsi2 7ff2d41fc700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1501981695.908423560/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 09:08:16 CST 2017
+Description : The durability service can be identified by ID: 1278056519
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <32111>
+Thread      : durability 7ff2d48ac700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1501981696.612143478/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : spliced 7fd6dc68c700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502021553.248181250/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1154222267 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : spliced 7fd6dc68c700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502021553.377289630/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : spliced 7fd6dc68c700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502021553.381943715/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : durability 7fd6d8fdd700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502021553.543406366/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : ddsi2 7fd6d8551700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502021553.555840694/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : SOAP service is reachable via port 42195
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : cmsoap 7fd6d9412700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502021553.563393705/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : cmsoap 7fd6d9412700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502021553.563936877/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:12:33 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <394>
+Thread      : ddsi2 7fd6d8551700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502021553.644918841/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : spliced 7f68c94f1700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502022006.577559232/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1689680240 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : spliced 7f68c94f1700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502022006.712383883/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : spliced 7f68c94f1700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022006.717051472/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : ddsi2 7f68c53b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502022006.868526135/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : durability 7f68c5e42700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502022006.875960505/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : SOAP service is reachable via port 37791
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : cmsoap 7f68c6277700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502022006.894842499/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : cmsoap 7f68c6277700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022006.898166344/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : ddsi2 7f68c53b6700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022006.921716250/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:20:07 CST 2017
+Description : The durability service can be identified by ID: 1689680240
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1573>
+Thread      : durability 7f68c5e42700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502022007.083585920/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : spliced 7f708d4df700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502022134.543969352/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 223260443 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : spliced 7f708d4df700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502022134.680406862/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : spliced 7f708d4df700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022134.683387379/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : durability 7f7089e30700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502022134.744578858/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : ddsi2 7f70893a4700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502022134.772852595/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : SOAP service is reachable via port 40926
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : cmsoap 7f708a265700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502022134.776600365/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : cmsoap 7f708a265700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022134.776969347/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:14 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : ddsi2 7f70893a4700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022134.795447144/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:15 CST 2017
+Description : The durability service can be identified by ID: 223260443
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : durability 7f7089e30700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502022135.500827678/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:22:23 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <1805>
+Thread      : conflictResolver 7f7089292700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022143.000184267/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : spliced 7f5732390700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502022284.344302567/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 661768638 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : spliced 7f5732390700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502022284.454232126/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : spliced 7f5732390700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022284.457512143/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : ddsi2 7f572a245700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502022284.521732244/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : SOAP service is reachable via port 40356
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : cmsoap 7f572b106700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502022284.532378961/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : cmsoap 7f572b106700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022284.532781683/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : durability 7f572acd1700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502022284.547686194/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : ddsi2 7f572a245700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022284.571135237/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:44 CST 2017
+Description : The durability service can be identified by ID: 661768638
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : durability 7f572acd1700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502022284.922685069/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:24:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2094>
+Thread      : conflictResolver 7f5729ef2700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022294.925348669/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : spliced 7faef2dcb700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502022335.820656126/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 390628933 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : spliced 7faef2dcb700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502022335.899630683/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : spliced 7faef2dcb700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022335.901816130/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : SOAP service is reachable via port 37766
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : cmsoap 7faecbacc700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502022335.981705167/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : cmsoap 7faecbacc700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022335.983160597/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : durability 7faecb697700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502022335.987377212/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:35 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : ddsi2 7faecac23700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502022335.997484213/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : ddsi2 7faecac23700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022336.024133697/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:36 CST 2017
+Description : The durability service can be identified by ID: 390628933
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : durability 7faecb697700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502022336.250921214/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:25:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2234>
+Thread      : conflictResolver 7faeca947700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502022343.843334318/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : spliced 7f122e982700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502024208.344476053/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 737491258 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : spliced 7f122e982700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502024208.522953089/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : spliced 7f122e982700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024208.527878072/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : durability 7f122727a700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502024208.697020369/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : ddsi2 7f1226806700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502024208.721755080/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : SOAP service is reachable via port 45265
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : cmsoap 7f12276af700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502024208.723534575/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : cmsoap 7f12276af700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024208.724026417/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:48 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : ddsi2 7f1226806700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024208.759521023/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:49 CST 2017
+Description : The durability service can be identified by ID: 737491258
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : durability 7f122727a700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502024209.281025662/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:56:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2508>
+Thread      : conflictResolver 7f122c036700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024216.760039749/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : spliced 7f80176c9700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502024263.758867737/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:43 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 383491251 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : spliced 7f80176c9700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502024263.913432873/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : spliced 7f80176c9700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024263.923330385/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : ddsi2 7f7fe758b700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502024264.099612945/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : SOAP service is reachable via port 40648
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : cmsoap 7f801444f700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502024264.109067017/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : cmsoap 7f801444f700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024264.110862560/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : durability 7f7fe7fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502024264.120373866/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : ddsi2 7f7fe758b700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024264.256595036/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:44 CST 2017
+Description : The durability service can be identified by ID: 383491251
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : durability 7f7fe7fff700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502024264.545637280/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 20:57:52 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2625>
+Thread      : conflictResolver 7f7fe7249700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024272.049435045/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : spliced 7fc342168700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502024855.679274859/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 935651131 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : spliced 7fc342168700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502024855.755824684/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : spliced 7fc342168700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024855.758817725/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : ddsi2 7fc33e02d700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502024855.872211181/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : durability 7fc33eab9700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502024855.892241252/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : SOAP service is reachable via port 38564
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : cmsoap 7fc33eeee700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502024855.897285001/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : cmsoap 7fc33eeee700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024855.900278006/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : ddsi2 7fc33e02d700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024855.945202175/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:36 CST 2017
+Description : The durability service can be identified by ID: 935651131
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : durability 7fc33eab9700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502024856.285988403/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:07:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <2838>
+Thread      : conflictResolver 7fc33dceb700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502024863.752278336/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : spliced 7f1d9a081700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025032.516446936/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 362455720 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : spliced 7f1d9a081700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025032.718517534/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : spliced 7f1d9a081700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025032.723879375/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : durability 7f1d969d2700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025032.797957151/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : SOAP service is reachable via port 36880
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : cmsoap 7f1d96e07700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025032.830518812/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : cmsoap 7f1d96e07700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025032.831174806/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : ddsi2 7f1d95f46700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025032.839654496/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:32 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : ddsi2 7f1d95f46700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025032.865970680/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:10:33 CST 2017
+Description : The durability service can be identified by ID: 362455720
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3032>
+Thread      : durability 7f1d969d2700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025033.367627971/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:01 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : spliced 7f3c353d2700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025181.778954006/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:01 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1904716331 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : spliced 7f3c353d2700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025181.970198598/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:01 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : spliced 7f3c353d2700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025181.978108149/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : ddsi2 7f3c31297700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025182.097187343/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : durability 7f3c31d23700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025182.139599101/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : SOAP service is reachable via port 36041
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : cmsoap 7f3c32158700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025182.142168590/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : cmsoap 7f3c32158700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025182.142847890/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : ddsi2 7f3c31297700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025182.161716344/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:02 CST 2017
+Description : The durability service can be identified by ID: 1904716331
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3248>
+Thread      : durability 7f3c31d23700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025182.562395221/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : spliced 7f2ac58db700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025236.600605035/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1184110167 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : spliced 7f2ac58db700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025236.748876307/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : spliced 7f2ac58db700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025236.752894400/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : ddsi2 7f2ac17a0700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025236.868473195/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : durability 7f2ac222c700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025236.884341574/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : SOAP service is reachable via port 34302
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : cmsoap 7f2ac2661700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025236.898877584/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : cmsoap 7f2ac2661700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025236.899377971/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : ddsi2 7f2ac17a0700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025236.932584262/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:13:57 CST 2017
+Description : The durability service can be identified by ID: 1184110167
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3449>
+Thread      : durability 7f2ac222c700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025237.394910879/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : spliced 7effe00fe700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025341.261222833/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 182117345 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : spliced 7effe00fe700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025341.372770582/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : spliced 7effe00fe700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025341.376995447/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : durability 7effdca4f700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025341.457265822/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : ddsi2 7effdc39f700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025341.474363949/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : SOAP service is reachable via port 42320
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : cmsoap 7effdce84700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025341.496443263/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : cmsoap 7effdce84700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025341.496935230/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : ddsi2 7effdc39f700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025341.516783278/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:15:41 CST 2017
+Description : The durability service can be identified by ID: 182117345
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3723>
+Thread      : durability 7effdca4f700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025341.732205775/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : spliced 7fa542fa6700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025369.357701264/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1754637315 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : spliced 7fa542fa6700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025369.607680103/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : spliced 7fa542fa6700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025369.613310980/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : SOAP service is reachable via port 35951
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : cmsoap 7fa540152700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025369.763755874/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : cmsoap 7fa540152700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025369.764372024/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : durability 7fa5138a5700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025369.784916492/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : ddsi2 7fa512e31700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025369.810873967/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:16:09 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <3856>
+Thread      : ddsi2 7fa512e31700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025369.940732639/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : spliced 7fba67b9b700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025425.567849090/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1838208818 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : spliced 7fba67b9b700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025425.681217913/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : spliced 7fba67b9b700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025425.685531184/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : SOAP service is reachable via port 40599
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : cmsoap 7fba64921700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025425.747558784/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : cmsoap 7fba64921700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025425.747985311/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : durability 7fba644ec700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025425.758746208/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : ddsi2 7fba379c4700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025425.770981206/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : ddsi2 7fba379c4700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025425.806454876/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:17:06 CST 2017
+Description : The durability service can be identified by ID: 1838208818
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4032>
+Thread      : durability 7fba644ec700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025426.320079252/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : spliced 7f82f7d7f700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025520.342388156/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 122884665 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : spliced 7f82f7d7f700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025520.564656778/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : spliced 7f82f7d7f700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025520.568419886/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : ddsi2 7f82c3c23700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025520.675825537/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : SOAP service is reachable via port 44144
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : cmsoap 7f82f4b05700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025520.681683777/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : cmsoap 7f82f4b05700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025520.682211453/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : durability 7f82f46d0700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025520.698979426/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : ddsi2 7f82c3c23700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025520.757522325/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:18:41 CST 2017
+Description : The durability service can be identified by ID: 122884665
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4221>
+Thread      : durability 7f82f46d0700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025521.108227755/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++
+              ++ spliced EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : spliced 7fce2ac13700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/spliced.c/1463/0/1502025675.122860397/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 2084231247 from [1,2147483647]
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : spliced 7fce2ac13700
+Internals   : 6.8.0/e6cc4b1/7825e89/The OpenSplice domain service/u_domain.c/675/0/1502025675.299447316/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : spliced 7fce2ac13700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025675.306917678/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : SOAP service is reachable via port 41005
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : cmsoap 7fce138ba700
+Internals   : 6.8.0/e6cc4b1/7825e89/CM SOAP Service/cms_service.c/437/0/1502025675.460119397/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : cmsoap 7fce138ba700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025675.461559845/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ++++++++++++++++++++++++++++++
+              ++ ddsi2 EVALUATION VERSION ++
+              ++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : ddsi2 7fce12a11700
+Internals   : 6.8.0/e6cc4b1/7825e89/q_main/q_main.c/2538/0/1502025675.472093397/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : +++++++++++++++++++++++++++++++++++
+              ++ durability EVALUATION VERSION ++
+              +++++++++++++++++++++++++++++++++++
+
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : durability 7fce13485700
+Internals   : 6.8.0/e6cc4b1/7825e89/d_durability/d_durability.c/1537/0/1502025675.481585630/-1
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : ddsi2 7fce12a11700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025675.513450047/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:15 CST 2017
+Description : The durability service can be identified by ID: 2084231247
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : durability 7fce13485700
+Internals   : 6.8.0/e6cc4b1/7825e89/DurabilityService/d_durability.c/680/0/1502025675.967931926/0
+========================================================================================
+Report      : INFO
+Date        : Sun Aug 06 21:21:23 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : hope-VirtualBox
+Process     : sacpp_helloworld_sub <4411>
+Thread      : conflictResolver 7fce12787700
+Internals   : 6.8.0/e6cc4b1/7825e89/v_serviceChangeState/v_service.c/289/0/1502025683.405669026/0

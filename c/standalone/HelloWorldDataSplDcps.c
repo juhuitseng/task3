@@ -27,6 +27,25 @@ __HelloWorldData_Msg__copyIn(c_base base, const void *_from, void *_to)
 /* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 535 */
 /* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 317 */
 #ifdef OSPL_BOUNDS_CHECK
+    if (from->name) {
+/* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 348 */
+        to->name = c_stringNew_s(base, from->name);
+        if (to->name == NULL) {
+            result = V_COPYIN_RESULT_OUT_OF_MEMORY;
+        }
+    } else {
+        OS_REPORT (OS_ERROR, "copyIn", 0,"Member 'HelloWorldData::Msg.name' of type 'c_string' is NULL.");
+        result = V_COPYIN_RESULT_INVALID;
+    }
+#else
+    to->name = c_stringNew_s(base, from->name);
+    if ((to->name != NULL) && (to->name == NULL)) {
+        result = V_COPYIN_RESULT_OUT_OF_MEMORY;
+    }
+#endif
+/* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 535 */
+/* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 317 */
+#ifdef OSPL_BOUNDS_CHECK
     if (from->message) {
 /* Code generated in file: /home/dds/OvernightTests/overnight/ospli/tags/OSPL_V6_8_0-RC3/ubuntu1204-64/x86_64.linux-release-notest-inner/build/src/tools/idlpp/code/idl_genCorbaCCopyin.c at line: 348 */
         to->message = c_stringNew_s(base, from->message);
@@ -58,6 +77,7 @@ __HelloWorldData_Msg__copyOut(const void *_from, void *_to)
     const struct _HelloWorldData_Msg *from = (const struct _HelloWorldData_Msg *)_from;
     HelloWorldData_Msg *to = (HelloWorldData_Msg *)_to;
     to->userID = (DDS_long)from->userID;
+    DDS_string_replace (from->name ? from->name : "", &to->name);
     DDS_string_replace (from->message ? from->message : "", &to->message);
 }
 
@@ -75,14 +95,16 @@ DDS_ReturnCode_t HelloWorldData_Msg__free (void *object)
 
     (void) o;
 
+    DDS_string_clean (&o->name);
     DDS_string_clean (&o->message);
     return DDS_RETCODE_OK;
 }
 
 const char * HelloWorldData_Msg_metaDescriptor[] = {"<MetaData version=\"1.0.0\"><Module name=\"HelloWorldData\"><Struct name=\"Msg\"><Member name=\"userID\">",
-"<Long/></Member><Member name=\"message\"><String/></Member></Struct></Module></MetaData>"};
-const int  HelloWorldData_Msg_metaDescriptorArrLength = 2;
-const int  HelloWorldData_Msg_metaDescriptorLength = 193;
+"<Long/></Member><Member name=\"name\"><String/></Member><Member name=\"message\"><String/></Member></Struct>",
+"</Module></MetaData>"};
+const int  HelloWorldData_Msg_metaDescriptorArrLength = 3;
+const int  HelloWorldData_Msg_metaDescriptorLength = 233;
 #if defined (__cplusplus)
 }
 #endif
